@@ -36,16 +36,6 @@ This is a learning and personal-use project, not a commercial streaming platform
                                     └─────────────────────┘
 ```
 
-## Repositories
-
-| Repo | Visibility | Role |
-|------|------------|------|
-| [shiori](https://github.com/shiori-hq/shiori) | Public | Project overview (shareable link) |
-| [shiori-app](https://github.com/shiori-hq/shiori-app) | Private | Flutter client |
-| [shiori-backend](https://github.com/shiori-hq/shiori-backend) | Private | Go backend |
-
-Source code and dev setup live in the private repos. Access is by invitation only.
-
 ## Status
 
 Early development. Watch core and unified library in progress.
